@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="44159944" file="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment\Perfect_assignment.prj" location="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment" name="Perfect_assignment" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="4175055985" file="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment\Perfect_assignment.prj" location="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment" name="Perfect_assignment" target="target.mlapps" target-name="Package App">
     <param.appname>Perfect_assignment</param.appname>
     <param.authnamewatermark>Sergey Yanenko</param.authnamewatermark>
     <param.email>syanenko65@gmail.com</param.email>
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary>Perfect assignment problem solution for bipartite graphs</param.summary>
     <param.description />
-    <param.screenshot>C:\Users\Serge\AppData\Local\Temp\tp4dc5d165_dda7_4020_a779_f8de374a1cb9.png</param.screenshot>
+    <param.screenshot>C:\Users\Serge\AppData\Local\Temp\tpf6619f2c_2fcd_4918_814d_938657aacd07.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
