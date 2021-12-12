@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="4175055985" file="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment\Perfect_assignment.prj" location="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment" name="Perfect_assignment" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3383184309" file="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment\Perfect_assignment.prj" location="C:\Users\Serge\Documents\MATLAB\Apps\Perfect-assignment" name="Perfect_assignment" target="target.mlapps" target-name="Package App">
     <param.appname>Perfect_assignment</param.appname>
     <param.authnamewatermark>Sergey Yanenko</param.authnamewatermark>
     <param.email>syanenko65@gmail.com</param.email>
@@ -8,8 +8,8 @@
     <param.icons />
     <param.summary>Perfect assignment problem solution for bipartite graphs</param.summary>
     <param.description />
-    <param.screenshot>C:\Users\Serge\AppData\Local\Temp\tpf6619f2c_2fcd_4918_814d_938657aacd07.png</param.screenshot>
-    <param.version>1.0</param.version>
+    <param.screenshot>C:\Users\Serge\AppData\Local\Temp\tpb3ebd555_53fd_4678_94d7_d0cafb6bef75.png</param.screenshot>
+    <param.version>0.02</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -21,7 +21,6 @@
       <param.icon />
       <param.icons />
       <param.description />
-      <param.version />
       <param.products.name />
       <param.products.id />
       <param.products.version />
